@@ -105,3 +105,6 @@ dist
 
 # Whatsapp session
 session.json
+
+# Numbers for testing
+config.js
